@@ -10,6 +10,6 @@ Run the script:
 python hello.py
 ```
 
-## Requirments
+## Requirements
 
 - Python 3.x
